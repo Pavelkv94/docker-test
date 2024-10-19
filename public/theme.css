@@ -341,6 +341,7 @@ h3 {
         transform: rotate(360deg);
     }
 }
+
 @keyframes load3 {
     0% {
         -webkit-transform: rotate(0deg);
